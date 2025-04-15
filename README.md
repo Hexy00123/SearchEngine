@@ -1,5 +1,8 @@
 # big-data-assignment2-2025
 
+# Report with code description
+https://github.com/Hexy00123/SearchEngine/blob/main/report/BigData_Assignment2_report.pdf
+
 # How to run
 ## Step 1: Install prerequisites
 - Docker
