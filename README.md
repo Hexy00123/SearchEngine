@@ -4,6 +4,7 @@
 ## Step 1: Install prerequisites
 - Docker
 - Docker compose
+- Ensure that a.parquet file is in the app/ directory
 ## Step 2: Run the command
 ```bash
 docker compose up 
